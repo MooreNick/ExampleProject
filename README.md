@@ -105,10 +105,13 @@ Possible Upgrades:
 ![projectPhoto2](https://github.com/MooreNick/ExampleProject/assets/123336257/334879c0-01d2-474b-bfc7-27bd0adf6909)
 
 
-How I got here: Thanks for asking! I graduated with a BS in CS last December. This is my third degree, I have another bachelor's and an associate's. This is a career change for me and I have currently filled out over two-hundred applications and have yet to get a job. I keep trying to modify my strategy to optimize interviews. My intent is to land a job as a developer, but that seems like such a broad term. I think AI and ML is an extremely interesting field and would love to learn more about it. I thoroghly enjoy programming and am ultimately seeking a position to help me improve my skills, particularly in C++ and/or Python.
+How I got here: Thanks for asking! I graduated with a BS in CS last December. This is my third degree, I have another bachelor's 
+and an associate's. This is a career change for me and I have currently filled out over two-hundred applications and have yet to 
+get a job. I keep trying to modify my strategy to optimize interviews. My intent is to land a job as a developer, but that seems 
+like such a broad term. I think AI and ML is an extremely interesting field and would love to learn more about it. I thoroghly 
+enjoy programming and am ultimately seeking a position to help me improve my skills, particularly in C++ and/or Python.
 
-I think creating this project and having something I can reference and something I could easily provide for technical clarifications will greatly aid in obtaining my first position.
-
-FAQ:
-No internship?
-Correct - I started and finished the CS degree in two (2) years. I was taking the maximum amount of available summer courses to graduate quickly.
+I think creating this project and having something I can reference and something I could easily provide for technical clarifications 
+will greatly aid in obtaining my first position. I think my primary downfall so far is my lack of professional experience. I 
+did not get an internship. I completed my CS degree in two years. In order to facilitate the rapid graduation I took the maximum amount
+of summer classes I could, I thought graduating six-months early was a bigger advantage.
