@@ -424,7 +424,7 @@ int main() {
 	//
 
 	// Setup window
-	sf::RenderWindow window(sf::VideoMode(w, h), "Nicholas A Moore (810739153)");
+	sf::RenderWindow window(sf::VideoMode(w, h), "Nicholas A Moore ()");
 	sf::Texture t1;
 
 	t1.loadFromFile("images/deepPurple.png");
