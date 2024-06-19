@@ -7,12 +7,14 @@ Thanks for taking the time to be here! I created this project with the hope that
 *** JUMP-TO ***
 If you want a basic overview (summary - three (3) parts) of the project: line 15:
 
-If you want an in-depth overview of the project: line 30:
+If you want an in-depth overview of the project: line 32:
 
-If you are interested in learning "how I got here" line 98:
+If you are interested in learning "how I got here" line 100:
 *** END ***
 
-For this project I wanted to showcase many different skills and more specifically have something specific and accessible to reference for interviews. I know certain things may not be optimal but I wanted to prove an ability to learn a variety of topics. I look forward to the opportunity to continue to improve upon my abilities. Some of the skills I showcased by doing the below: VMs, GCP, C++, SFML, Python, Django, SQL, Ubuntu, HTML, CLI, Git.
+For this project I wanted to showcase many different skills and more specifically have something specific and accessible to reference for interviews. 
+I know certain things may not be optimal but I wanted to prove an ability to learn a variety of topics. I look forward to the opportunity to continue 
+to improve upon my abilities. Some of the skills I showcased by doing the below: VMs, GCP, C++, SFML, Python, Django, SQL, Ubuntu, HTML, CLI, Git.
 
 Part 1: 
 Launched a Virtual Machine (VM) in Google Compute Engine (GCE) using Google Cloud Platform (GCP)
