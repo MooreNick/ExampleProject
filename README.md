@@ -8,7 +8,7 @@ If you want a basic overview (summary - three (3) parts) of the project: line 14
 
 If you want an in-depth overview of the project: line 29:
 
-If you are interested in learning "how I got here" line X:
+If you are interested in learning "how I got here" line 94:
 
 
 For this project I wanted to showcase many different skills and more specifically have something to specific and accessible to reference for interviews. I know certain things may not be optimal but I wanted to prove an ability to learn a variety of topics. I look forward to the opportunity to continue to improve upon my abilities. Some of the skills I showcased doing the below: VMs, GCP, C++, SFML, Python, Django, SQL, Ubuntu, HTML, CLI, Git 
@@ -91,6 +91,10 @@ Possible Upgrades:
 ![projectPhoto2](https://github.com/MooreNick/ExampleProject/assets/123336257/334879c0-01d2-474b-bfc7-27bd0adf6909)
 
 
+How I got here: Thanks for asking! I graduated with a BS in CS last December. This is my third degree, I have another bachelor's and an associate's. This is a career change for me and I have currently filled out over two-hundred applications and have yet to get a job. I keep trying to modify my strategy to optimize interviews. My intent is to land a job as a developer, but that seems like such a broad term. I think AI and ML is an extremely an interesting field and would love to learn more about it. I thoroghly enjoy programming and am ultimately seeking a position to help me improve my skills, particularly in C++ and/or Python.
 
+I think creating this project and having something I can reference and something I could easily provide for technical clarifications will greatly aid in obtaining my first position.
 
-
+FAQ:
+No internship?
+Correct - I started and finished the CS degree in two (2) years. I was taking the maximum amount of available summer courses to graduate quickly.
