@@ -12,7 +12,7 @@ If you want an in-depth overview of the project: line 30:
 If you are interested in learning "how I got here" line 98:
 *** END ***
 
-For this project I wanted to showcase many different skills and more specifically have something to specific and accessible to reference for interviews. I know certain things may not be optimal but I wanted to prove an ability to learn a variety of topics. I look forward to the opportunity to continue to improve upon my abilities. Some of the skills I showcased doing the below: VMs, GCP, C++, SFML, Python, Django, SQL, Ubuntu, HTML, CLI, Git 
+For this project I wanted to showcase many different skills and more specifically have something specific and accessible to reference for interviews. I know certain things may not be optimal but I wanted to prove an ability to learn a variety of topics. I look forward to the opportunity to continue to improve upon my abilities. Some of the skills I showcased by doing the below: VMs, GCP, C++, SFML, Python, Django, SQL, Ubuntu, HTML, CLI, Git.
 
 Part 1: 
 Launched a Virtual Machine (VM) in Google Compute Engine (GCE) using Google Cloud Platform (GCP)
@@ -34,7 +34,7 @@ Starting with a Google Cloud account and basic project:
 
 General Process:
 - Lauched a VM running Ubuntu
-- Using the build in tool I uploaded the game files
+- Using the built in tool I uploaded the game files
 - Installed the compiler and dependencies
 - Create makefile
 - Installed ubuntu desktop and display manager
@@ -42,11 +42,11 @@ General Process:
 - Ran the game
 
 Notes: 
-- I was stuck for awhile on the program compiling but not being able to run. I was getting an error involving the $DISLAY environment variable. I manually set it to both :0 and localhost:10 but to no avail. Installing the desktop and connected via Chrome Remote Desktop alleviated the issue. In an attempt to resolve this issue another way, I connected to the VM using PuTTy, allowing X11 passthrough, but that also did not fix the issue.
-- It was more challenging that I thought. Initially I thought I would be able to just upload the .exe and use wine to run it. That was not working so I installed the compiler and dependencies to run it and created a makefile to compile and link the code. Running that was showing issue with $DISPLAY enrionment variable. So I manually set the $DISPLAY environment variable to both ':0' and "localhost:10' to no avail (same error). Then I got the desktop working (hey, if it can show that?) and that made it work. Assuming now the .exe would also work, considering it should be the same-ish as the one I uploaded.
+- I was stuck for awhile on the program compiling but not being able to run. I was getting an error involving the $DISLAY environment variable. I manually set it to both :0 and localhost:10 but to no avail. Installing the desktop and connecting via Chrome Remote Desktop alleviated the issue. In an attempt to resolve this issue another way, I connected to the VM using PuTTy, allowing X11 passthrough, but that also did not fix the issue.
+- It was more challenging than I thought. Initially I thought I would be able to just upload the .exe and use wine to run it. That was not working so I installed the compiler and the needed dependencies and created a makefile to compile and link the code. Running that was showing the issue with the $DISPLAY environment variable. So I manually set the $DISPLAY environment variable to both ':0' and "localhost:10' to no avail (same error). Then I got the desktop working (hey, if it can show that?) and that made it work. Assuming now the .exe would also work, considering it should be the same-ish as the one I uploaded.
 
 Possible Upgrades:
-- Make it write to bucket (GCS C++ Client library?)
+- Make it write to bucket (name/score) (GCS C++ Client library?)
 - Make it run more efficienty (upgrade VM?)
 ![projectPhoto3](https://github.com/MooreNick/ExampleProject/assets/123336257/69d3c7d8-1dfd-4032-ad60-02798bbdd238)
 
