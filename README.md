@@ -44,8 +44,16 @@ General Process:
 - Ran the game
 
 Notes: 
-- I was stuck for awhile on the program compiling but not being able to run. I was getting an error involving the $DISLAY environment variable. I manually set it to both :0 and localhost:10 but to no avail. Installing the desktop and connecting via Chrome Remote Desktop alleviated the issue. In an attempt to resolve this issue another way, I connected to the VM using PuTTy, allowing X11 passthrough, but that also did not fix the issue.
-- It was more challenging than I thought. Initially I thought I would be able to just upload the .exe and use wine to run it. That was not working so I installed the compiler and the needed dependencies and created a makefile to compile and link the code. Running that was showing the issue with the $DISPLAY environment variable. So I manually set the $DISPLAY environment variable to both ':0' and "localhost:10' to no avail (same error). Then I got the desktop working (hey, if it can show that?) and that made it work. Assuming now the .exe would also work, considering it should be the same-ish as the one I uploaded.
+- On the desktop:
+   I was stuck for awhile on the program compiling but not being able to run. I was getting an error involving the $DISLAY
+   environment variable. I manually set it to both :0 and localhost:10 but to no avail. Installing the desktop and connecting
+   via Chrome Remote Desktop alleviated the issue. In an attempt to resolve this issue another way, I connected to the VM using
+   PuTTy, allowing X11 passthrough, but that also did not fix the issue. It was more challenging than I thought. Initially I
+   thought I would be able to just upload the .exe and use wine to run it. That was not working so I installed the compiler and
+   the needed dependencies and created a makefile to compile and link the code. Running that was showing the issue with the
+   $DISPLAY environment variable. So I manually set the $DISPLAY environment variable to both ':0' and "localhost:10' to no avail
+   (same error). Then I got the desktop working (hey, if it can show that?) and that made it work. Assuming now the .exe would also
+  work, considering it should be the same-ish as the one I uploaded.
 
 Possible Upgrades:
 - Make it write to bucket (name/score) (GCS C++ Client library?)
