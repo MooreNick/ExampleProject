@@ -1,4 +1,4 @@
-Example Project
+Example Project [Recommended to read as code]
 
 Hello!
 
