@@ -14,7 +14,7 @@ If you want an in-depth overview of the project: line Z:
 
 
 
-For this project I wanted to showcase many different skills and more specifically have something to specific and accessible to reference for interviews. 
+For this project I wanted to showcase many different skills and more specifically have something to specific and accessible to reference for interviews. I know certain things may not be optimal but I wanted to prove an ability to learn a variety of topics. I look forward to the opportunity to continue to improve upon my abilities.
 
 Part 1: 
 Launched a Virtual Machine (VM) in Google Compute Engine (GCE) using Google Cloud Platform (GCP)
@@ -51,7 +51,8 @@ Notes:
 Possible Upgrades:
 - Make it write to bucket (GCS C++ Client library?)
 - Make it run more efficienty (upgrade VM?)
-[projectPhoto3](https://github.com/MooreNick/ExampleProject/assets/123336257/e9b5e8f8-f650-484e-9200-fc500e3dc4bd)
+![projectPhoto3](https://github.com/MooreNick/ExampleProject/assets/123336257/69d3c7d8-1dfd-4032-ad60-02798bbdd238)
+
 
 In-Depth Part 2:
 Steps I took to achieve the goal of creating a Django Application that can display information from Google Cloud Storage
