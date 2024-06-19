@@ -4,22 +4,20 @@ Hello!
 
 Thanks for taking the time to be here! I created this project with the hope that it will aid me obtaining my first position as a software developer.
 
+If you want a basic overview (summary - three (3) parts) of the project: line 14:
+
+If you want an in-depth overview of the project: line 29:
+
 If you are interested in learning "how I got here" line X:
 
-If you want a basic overview (summary - three (3) parts) of the project: line Y:
 
-If you want an in-depth overview of the project: line Z:
-
-
-
-
-
-For this project I wanted to showcase many different skills and more specifically have something to specific and accessible to reference for interviews. I know certain things may not be optimal but I wanted to prove an ability to learn a variety of topics. I look forward to the opportunity to continue to improve upon my abilities.
+For this project I wanted to showcase many different skills and more specifically have something to specific and accessible to reference for interviews. I know certain things may not be optimal but I wanted to prove an ability to learn a variety of topics. I look forward to the opportunity to continue to improve upon my abilities. Some of the skills I showcased doing the below: VMs, GCP, C++, SFML, Python, Django, SQL, Ubuntu, HTML, CLI, Git 
 
 Part 1: 
 Launched a Virtual Machine (VM) in Google Compute Engine (GCE) using Google Cloud Platform (GCP)
 On that VM run a game that I developed in C++ using the SFML Library
                    *** I made this game for an assignment while obtaining my Computer Science (CS) degree
+                   view the game /ExampleProject/Game
                    
 Part 2:
 Created a Django Application capable of displaying information from Google Cloud Storage
@@ -27,7 +25,7 @@ Created a Django Application capable of displaying information from Google Cloud
 Part 3:
 Host a Django Application using GCP
 
-Doing these three parts I gained or showcased experience using: VMs, GCP, C++, SFML, Python, Django, SQL, Ubuntu, HTML, CLI, Git
+
 
 Z
 
@@ -76,6 +74,9 @@ Notes:
   Possible Upgrades:
 - pass render() df object directly?
 -   If not: upgrade so it does not simply append to sqlite as it currently does
+- Add add a .css and corresponding .html
+- Add .js for fun content
+![projectPhoto1](https://github.com/MooreNick/ExampleProject/assets/123336257/ddfef2c8-e568-473a-a675-7e7f880b6e2c)
 
 
 In-Depth Part 3:
@@ -90,6 +91,8 @@ Notes:
 - Essentially proof of concept for hosting a Django app
 Possible Upgrades:
 - Host the files from part 2
+![projectPhoto2](https://github.com/MooreNick/ExampleProject/assets/123336257/334879c0-01d2-474b-bfc7-27bd0adf6909)
+
 
 
 
