@@ -17,7 +17,7 @@ Part 1:
 Launched a Virtual Machine (VM) in Google Compute Engine (GCE) using Google Cloud Platform (GCP)
 On that VM run a game that I developed in C++ using the SFML Library
                    *** I made this game for an assignment while obtaining my Computer Science (CS) degree
-                   view the game /ExampleProject/Game
+                   view the game ExampleProject/Game/game_main.cpp
                    
 Part 2:
 Created a Django Application capable of displaying information from Google Cloud Storage
@@ -25,9 +25,6 @@ Created a Django Application capable of displaying information from Google Cloud
 Part 3:
 Host a Django Application using GCP
 
-
-
-Z
 
 In-Depth Part 1:
 Steps I took to achieve the goal of running a C++ game that I developed on a GCP VM
@@ -59,13 +56,12 @@ Starting with a Google Cloud account and basic project:
 
 Created a bucket in Google Cloud Storage
 Added a .csv file to the bucket
-Create data data for .csv [see /ExampleProject/Website/Misc/misc.py]
+Create data data for .csv /ExampleProject/Website/Misc/misc.py
 Create directory locally
 Created django project
 Using premade base.html (credits in source) added two other .html pages and did the back-end Django coding
 Using Pandas read GCS csv and updated local database to include csv
 Ran Django project
-
 
 
 Notes:
@@ -86,6 +82,7 @@ Starting with a Google Cloud accound and basic project:
 
 Enabled appropriate API Access
 Ran marketplace Django app
+
 
 Notes:
 - Essentially proof of concept for hosting a Django app
