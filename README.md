@@ -1,4 +1,4 @@
-Example Project
+# Example Project
 
 Hello!
 
@@ -11,7 +11,7 @@ to improve upon my abilities. Some of the skills I showcased by doing the below:
 
 
 
-Summary
+## Summary
 
 Part 1: 
 Launched a Virtual Machine (VM) in Google Compute Engine (GCE) using Google Cloud Platform (GCP)
@@ -27,9 +27,9 @@ Host a Django Application using GCP
 
 
 
-In-Depth Walkthrugh
+## In-Depth Walkthrugh
 
-In-Depth Part 1:
+#### In-Depth Part 1:
 Steps I took to achieve the goal of running a C++ game that I developed on a GCP VM
 
 Starting with a Google Cloud account and basic project:
@@ -61,7 +61,7 @@ Possible Upgrades:
 ![projectPhoto3](https://github.com/MooreNick/ExampleProject/assets/123336257/69d3c7d8-1dfd-4032-ad60-02798bbdd238)
 Photo is screenshot of file running on VM
 
-In-Depth Part 2:
+#### In-Depth Part 2:
 Steps I took to achieve the goal of creating a Django Application that can display information from Google Cloud Storage
 
 Starting with a Google Cloud account and basic project:
@@ -81,14 +81,14 @@ Notes:
 - I then updated the local sqlite to include the items from the above object
 
 Possible Upgrades:
-- pass render() df object directly?
+- pass ```render()``` df object directly?
 -   If not: upgrade so it does not simply append to sqlite as it currently does
 - Add add a .css and corresponding .html
 - Add .js for fun content
 ![projectPhoto1](https://github.com/MooreNick/ExampleProject/assets/123336257/ddfef2c8-e568-473a-a675-7e7f880b6e2c)
 Photo is screenshot of output
 
-In-Depth Part 3:
+#### In-Depth Part 3:
 Steps I took to achieve the goal of hosting a Django app on GCP
 
 Starting with a Google Cloud accound and basic project:
@@ -107,18 +107,18 @@ Photo is screenshot showing that app is running
 
 
 
-About me and motivation
+## About me and motivation
 
 I graduated with a BS in CS last December. This is my third degree, I have another bachelor's 
-]and an associate's. This is a career change for me and I have currently filled out over two-hundred applications and have yet to 
-get a job. I keep trying to modify my strategy to optimize interviews. My intent is to land a job as a developer, but that seems 
-like such a broad term. I think AI and ML is an extremely interesting field and would love to learn more about it. I thoroghly 
-enjoy programming and am ultimately seeking a position to help me improve my skills, particularly in C++ and/or Python.
+and an associate's. This is a career change for me and am still looking for my first opportunity. I keep trying to modify 
+my strategy to optimize interviews. My intent is to land a job as a developer, but that seems like such a broad term. I 
+think AI and ML is an extremely interesting field and would love to learn more about it. I thoroghly enjoy programming 
+and am ultimately seeking a position to help me improve my skills, particularly in C++ and/or Python.
 
 I think creating this project and having something I can reference and something I could easily provide for technical clarifications 
-will greatly aid in obtaining my first position. I think my primary downfall so far is my lack of professional experience. I 
-did not get an internship. I completed my CS degree in two years. In order to facilitate the rapid graduation I took the maximum amount
-of summer classes I could, I thought graduating six-months early was a bigger advantage.
+will greatly aid in obtaining my first position. Throughout my job search so far, it seems a lack of professional experience has been 
+caused me to be prioritized below other candidates. I elected to not apply for internships to graduate at an accelerated rate. My hope 
+is that this project can demonstrate the ability to learn and balance many different programming languages and technologies.
 
 I am also excited for the idea to have something like this project at the beginning of my career. It will be fun to look back and see 
 progress in different skills.
