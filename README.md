@@ -73,7 +73,7 @@ General Process:
 - Create directory locally
 - Created django project
 - Using premade base.html (credits in source) added two other .html pages and did the back-end Django coding
-- Using Pandas read GCS csv and updated local database to include csv
+- Using Pandas read GCS csv and updated local database to include csv ExampleProject/Website/App/views.py
 - Ran Django project
 
 Notes:
