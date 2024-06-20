@@ -9,7 +9,7 @@ If you want a basic overview (summary - three (3) parts) of the project: line 15
 
 If you want an in-depth overview of the project: line 32:
 
-If you are interested in learning "how I got here" line 100:
+If you are interested in learning "how I got here" line 108:
 *** END ***
 
 For this project I wanted to showcase many different skills and more specifically have something specific and accessible to reference for interviews. 
