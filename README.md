@@ -115,3 +115,6 @@ I think creating this project and having something I can reference and something
 will greatly aid in obtaining my first position. I think my primary downfall so far is my lack of professional experience. I 
 did not get an internship. I completed my CS degree in two years. In order to facilitate the rapid graduation I took the maximum amount
 of summer classes I could, I thought graduating six-months early was a bigger advantage.
+
+I am also excited for the idea to have something like this project at the beginning of my career. It will be fun to look back and see 
+progress in different skills.
