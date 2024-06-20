@@ -14,10 +14,9 @@ to improve upon my abilities. Some of the skills I showcased by doing the below:
 ## Summary
 
 Part 1: 
-Launched a Virtual Machine (VM) in Google Compute Engine (GCE) using Google Cloud Platform (GCP)
-On that VM run a game that I developed in C++ using the SFML Library
-                   *** I made this game for an assignment while obtaining my Computer Science (CS) degree
-                   view the game ExampleProject/Game/game_main.cpp
+Launched a Virtual Machine (VM) in Google Compute Engine (GCE) using Google Cloud Platform (GCP).
+On that VM run a game that I developed in C++ using the SFML Library. I made the game as an assignment
+while obtaining my Computer Science (CS) degree. View the source here: ```ExampleProject/Game/game_main.cpp```
                    
 Part 2:
 Created a Django Application capable of displaying information from Google Cloud Storage
@@ -46,7 +45,7 @@ General Process:
 Notes: 
 - On the desktop:
    I was stuck for awhile on the program compiling but not being able to run. I was getting an error involving the $DISLAY
-   environment variable. I manually set it to both :0 and localhost:10 but to no avail. Installing the desktop and connecting
+   environment variable. I manually set it to both ```:0``` and ```localhost:10``` but to no avail. Installing the desktop and connecting
    via Chrome Remote Desktop alleviated the issue. In an attempt to resolve this issue another way, I connected to the VM using
    PuTTy, allowing X11 passthrough, but that also did not fix the issue. It was more challenging than I thought. Initially I
    thought I would be able to just upload the .exe and use wine to run it. That was not working so I installed the compiler and
@@ -69,11 +68,11 @@ Starting with a Google Cloud account and basic project:
 General Process:
 - Created a bucket in Google Cloud Storage
 - Added a .csv file to the bucket
-- Create data data for .csv /ExampleProject/Website/Misc/misc.py
+- Create data data for .csv ```ExampleProject/Website/Misc/misc.py```
 - Create directory locally
 - Created django project
 - Using premade base.html (credits in source) added two other .html pages and did the back-end Django coding
-- Using Pandas read GCS csv and updated local database to include csv ExampleProject/Website/App/views.py
+- Using Pandas read GCS csv and updated local database to include csv ```ExampleProject/Website/App/views.py```
 - Ran Django project
 
 Notes:
