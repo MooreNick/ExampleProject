@@ -1,20 +1,17 @@
-Example Project [Recommended to read as code]
+Example Project
 
 Hello!
 
 Thanks for taking the time to be here! I created this project with the hope that it will aid me obtaining my first position as a software developer.
-
-*** JUMP-TO ***
-If you want a basic overview (summary - three (3) parts) of the project: line 15:
-
-If you want an in-depth overview of the project: line 32:
-
-If you are interested in learning "how I got here" line 108:
-*** END ***
+This README is in three sections, first a brief summary of the project, second in-depth walkthrough of project, third about me, project motivation.
 
 For this project I wanted to showcase many different skills and more specifically have something specific and accessible to reference for interviews. 
 I know certain things may not be optimal but I wanted to prove an ability to learn a variety of topics. I look forward to the opportunity to continue 
 to improve upon my abilities. Some of the skills I showcased by doing the below: VMs, GCP, C++, SFML, Python, Django, SQL, Ubuntu, HTML, CLI, Git.
+
+
+
+Summary
 
 Part 1: 
 Launched a Virtual Machine (VM) in Google Compute Engine (GCE) using Google Cloud Platform (GCP)
@@ -28,6 +25,9 @@ Created a Django Application capable of displaying information from Google Cloud
 Part 3:
 Host a Django Application using GCP
 
+
+
+In-Depth Walkthrugh
 
 In-Depth Part 1:
 Steps I took to achieve the goal of running a C++ game that I developed on a GCP VM
@@ -105,8 +105,12 @@ Possible Upgrades:
 ![projectPhoto2](https://github.com/MooreNick/ExampleProject/assets/123336257/334879c0-01d2-474b-bfc7-27bd0adf6909)
 Photo is screenshot showing that app is running
 
-How I got here: Thanks for asking! I graduated with a BS in CS last December. This is my third degree, I have another bachelor's 
-and an associate's. This is a career change for me and I have currently filled out over two-hundred applications and have yet to 
+
+
+About me and motivation
+
+I graduated with a BS in CS last December. This is my third degree, I have another bachelor's 
+]and an associate's. This is a career change for me and I have currently filled out over two-hundred applications and have yet to 
 get a job. I keep trying to modify my strategy to optimize interviews. My intent is to land a job as a developer, but that seems 
 like such a broad term. I think AI and ML is an extremely interesting field and would love to learn more about it. I thoroghly 
 enjoy programming and am ultimately seeking a position to help me improve my skills, particularly in C++ and/or Python.
