@@ -59,7 +59,7 @@ Possible Upgrades:
 - Make it write to bucket (name/score) (GCS C++ Client library?)
 - Make it run more efficienty (upgrade VM?)
 ![projectPhoto3](https://github.com/MooreNick/ExampleProject/assets/123336257/69d3c7d8-1dfd-4032-ad60-02798bbdd238)
-
+Photo is screenshot of file running on VM
 
 In-Depth Part 2:
 Steps I took to achieve the goal of creating a Django Application that can display information from Google Cloud Storage
@@ -86,7 +86,7 @@ Possible Upgrades:
 - Add add a .css and corresponding .html
 - Add .js for fun content
 ![projectPhoto1](https://github.com/MooreNick/ExampleProject/assets/123336257/ddfef2c8-e568-473a-a675-7e7f880b6e2c)
-
+Photo is screenshot of output
 
 In-Depth Part 3:
 Steps I took to achieve the goal of hosting a Django app on GCP
@@ -103,7 +103,7 @@ Notes:
 Possible Upgrades:
 - Host the files from part 2
 ![projectPhoto2](https://github.com/MooreNick/ExampleProject/assets/123336257/334879c0-01d2-474b-bfc7-27bd0adf6909)
-
+Photo is screenshot showing that app is running
 
 How I got here: Thanks for asking! I graduated with a BS in CS last December. This is my third degree, I have another bachelor's 
 and an associate's. This is a career change for me and I have currently filled out over two-hundred applications and have yet to 
